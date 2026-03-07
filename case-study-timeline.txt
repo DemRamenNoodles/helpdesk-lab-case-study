@@ -1,0 +1,14 @@
+Step 01 - Intake
+User reports inability to access shared drive. Ticket opened, severity assessed.
+
+Step 02 - Scope Check
+One user or global? Confirmed isolated. Connectivity and account status verified.
+
+Step 03 - Root Cause
+Permission misconfiguration — user missing from the correct security group.
+
+Step 04 - Resolution
+Corrected ACL, refreshed session, re-tested end-to-end with the user.
+
+Step 05 - Closure
+User confirmed. Ticket documented with resolution notes and prevention steps.
